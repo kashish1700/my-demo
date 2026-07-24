@@ -1,4 +1,4 @@
 # my-demo
-kashish Chouhan
+This is my first Git Repository.
 <br>
-from bari
+Author-Kashish Chouhan
